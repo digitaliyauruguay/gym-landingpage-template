@@ -15,12 +15,12 @@ export default function Navbar() {
 
         {/* LOGO + NOMBRE */}
         <div className="flex items-center gap-3">
-          <a href="#inicio">
+          <a href="#">
   <div className="w-10 h-10 bg-[var(--primary)] rounded-full flex items-center justify-center shadow-md cursor-pointer transition-all duration-300 hover:scale-110">
     {LogoIcon && <LogoIcon size={20} className="text-white" strokeWidth={2} />}
   </div>
 </a>
-          <a href="#inicio">
+          <a href="#">
   <h1 className="text-xl font-bold text-gray-900 cursor-pointer transition-all duration-300 hover:text-[var(--primary)] hover:-translate-y-0.5 hover:scale-105">
     {siteConfig.branding.name}
   </h1>

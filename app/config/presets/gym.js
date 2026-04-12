@@ -55,7 +55,14 @@ Esta vez lo hacés bien, con resultados.`,
   miniBen2: "✔ Seguimiento constante",
   miniBen3: "✔ Resultados visibles",
   socialTest: "+200 personas ya cambiaron su físico",
-  image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b",
+
+  images: [
+    "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b",
+    "https://images.unsplash.com/photo-1599058917765-a780eda07a3e",
+    "https://images.unsplash.com/photo-1558611848-73f7eb4001ab",
+    "https://images.unsplash.com/photo-1594737625785-cb1c6a7f9b7f"
+  ],
+
   altImage: "Personas entrenando en gimnasio",
 },
 
